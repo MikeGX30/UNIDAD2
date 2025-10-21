@@ -17,3 +17,4 @@
 | :-: | :-------------------------------- | :-- |
 |  1  | Ejercicios Prácticos de Listas 🔗 | —   |
 |  3  | Ejercicio — Especificación de la Pila 🧾          | [📄 Abrir carpeta](./Stack) |
+|  3  | Ejercicio — Quiz de pilas 🧾          | [📄 Abrir evidencia](./TrabajoDel-21-10-25) |
