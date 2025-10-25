@@ -16,5 +16,6 @@
 |  Nº | Actividad                         | Ver |
 | :-: | :-------------------------------- | :-- |
 |  1  | Ejercicios Prácticos de Listas 🔗 | —   |
-|  3  | Ejercicio — Especificación de la Pila 🧾          | [📄 Abrir carpeta](./Stack) |
-|  3  | Ejercicio — Quiz de pilas 🧾          | [📄 Abrir evidencia](./TrabajoDel-21-10-25) |
+|  2  | Ejercicio — Especificación de la Pila 🧾          | [📄 Abrir carpeta](./Stack) |
+|  2  | Ejercicio — Quiz de pilas 🧾          | [📄 Abrir evidencia](./TrabajoDel-21-10-25) |
+|  3  | Ejercicios De Colas  | [📄 Abrir evidencia](./MLA.Colas)  |
