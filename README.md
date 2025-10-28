@@ -8,6 +8,7 @@
 |  2  | Ejercicio — Pila con VisuAlgo 🔁                  | [📄 Abrir PDF](./Pila-en-Visualgo.pdf)               |
 |  3  | Ejercicio — Especificación de la Pila 🧾          | -------|
 |  4  | Ejercicio — Lista Encantada Humana en Java 👩‍💻     |[📄 Abrir PDF](./listas-afuera.pdf)|
+|  5  | Ejercicio — Ordenamiento Burbuja  🧾    |[📄 Abrir PDF](./OrdenamientoBurbuja.pdf)|
 
 ---
 
